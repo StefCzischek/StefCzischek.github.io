@@ -117,11 +117,12 @@ header {
   }
  
   text {
+      position:fixed;
      color: #d8d8d8;
      text-shadow: rgba(#000, 0.2) 0 1px 0;
      right: 50%;
      font-size: 25px;
-     margin: 10px;
+     margin: 0px;
        }
 
   #logo {
