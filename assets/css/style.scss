@@ -47,18 +47,18 @@ header {
   position: fixed;
   top: 115px;
   background: #01820e;
-  border: 1px solid #00f00c; 
+  border: 1px solid #026309; 
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
-    border: 1px solid #00db0f;
-    background: linear-gradient(rgb(152, 155, 136), rgb(127, 155, 56));
+    border: 1px solid #026309;
+    background: linear-gradient(rgb(152, 205, 136), rgb(127, 205, 56));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
     background-color: #8cff88;
-    margin-left: -5px;
+    margin-left: -20px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
@@ -69,7 +69,7 @@ header {
     text-align:center;
 
     &:hover {
-      background: linear-gradient(rgb(152, 155, 136), rgb(152, 155, 136));
+      background: linear-gradient(rgb(152, 205, 136), rgb(152, 205, 136));
       background-color: #a0ffa3;
     }
   }
