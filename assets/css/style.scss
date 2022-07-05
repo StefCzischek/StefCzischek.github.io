@@ -121,7 +121,7 @@ header {
      color: #d8d8d8;
      text-shadow: rgba(#000, 0.2) 0 1px 0;
      right: 70%;
-     bottom: 70%; 
+     bottom: 80%; 
      font-size: 32px;
      margin: 0px;
        }
@@ -138,6 +138,8 @@ header {
   
   #uOlogo {
     position:absolute;
+    height: 100px;
+    width: 200px;
     right:15px;
     top:2px;
     display: block;
